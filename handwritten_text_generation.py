@@ -156,7 +156,7 @@ model.summary()
 model.fit(
     X,
     y,
-    epochs=5,
+    epochs=20,
     batch_size=64
 )
 
